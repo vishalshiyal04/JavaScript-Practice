@@ -1057,8 +1057,8 @@ for(div of divs) {
 
 //Attributrs
 /* getAttribute(attr) //to get the attribute value // */
-// let div41 = document.querySelector("div");
-// console.log(div);
+let div41 = document.querySelector("div");
+console.log(div);
 let id = div.getAttribute("id");
 console.log(id);
 
